@@ -1,3 +1,33 @@
 body {
   background: blanchedalmond;
 }
+
+container {
+height: 100%;
+width: 100%;
+}
+
+.a {
+  background-color: rgb(105, 233, 169);
+  min-height: 200px;
+  min-width: 200px;
+  height: 30%;
+  width:auto;
+
+}
+.b {
+  background-color: rgb(121, 121, 121);
+  min-width: 500px;
+  min-height: 500px;
+  display: inline-block;
+
+
+
+}
+.c {
+  background-color: blueviolet;
+  min-width: 200px;
+  min-height: 500px;
+  display: inline-block;
+
+}

@@ -1,3 +1,46 @@
 body {
   background: papayawhip;
 }
+
+.a {
+  min-height: 100px;
+  width: 100%;
+  background-color: blue;
+}
+.b {
+  min-width: 500px;
+  min-height: 100px;
+ background-color: red;
+ display: flex;
+ 
+}
+.c {
+  min-width: 100px;
+  max-height: 100px;
+  background-color: magenta;
+  display: inline-block;
+ 
+}
+.d {
+  min-width: 100px;
+  max-height: 100px;
+  background-color: gold;
+  display: inline-block;
+}
+.e {
+  min-width: 100px;
+  max-height: 100px;
+  background-color: silver;
+  display: inline-block;
+}
+.f {
+  display: inline-block;
+  background-color: green;
+  min-height: 200px;
+}
+.bruh {
+  display: inline-block;
+  background-color: black;
+  
+
+}
